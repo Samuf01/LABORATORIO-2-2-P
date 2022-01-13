@@ -45,9 +45,24 @@ La resistencia de Thévenin (RTH) es la resistencia equivalente vista de la term
 
 -Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
+![image](https://user-images.githubusercontent.com/94079321/149373331-51149e36-2d82-4067-a47e-645e1be628ea.png)
+
 -Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
+
+![image](https://user-images.githubusercontent.com/94079321/149375400-22417867-f0d5-4ad8-b3b4-c9c55dbebe0a.png)
+
+![image](https://user-images.githubusercontent.com/94079321/149376302-ba23d781-3afd-49ec-ae31-594e9f680dd4.png)
+
+![image](https://user-images.githubusercontent.com/94079321/149376342-ec370d8f-c85f-46de-bf7d-a7011d88b1bb.png)
+
+![image](https://user-images.githubusercontent.com/94079321/149376373-a517143e-41f7-4434-8a0c-00efe5d557fc.png)
+
+![image](https://user-images.githubusercontent.com/94079321/149376395-72a3ed7d-1843-4447-9688-4cbb1cff5e3f.png)
+
 5. Conclusiones
+
+Mediante el presente laboratorio pudimos determinar que gracias a este teorema podemos reemplazar la estructura de nuestro circuito eléctrico con un circuito mucho más simple así, facilitando nuestros cálculos y optimizando nuestra resolución.
 
 6. Recomendiaciones
 
@@ -55,4 +70,3 @@ La resistencia de Thévenin (RTH) es la resistencia equivalente vista de la term
 
 - Es importante tener claro las formas de resolución de un circuito para analizar de una manera correcta el teorema dé Thévenin
 
-6. Bibliografia
