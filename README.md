@@ -61,6 +61,10 @@ La resistencia de Thévenin (RTH) es la resistencia equivalente vista de la term
 
 ![image](https://user-images.githubusercontent.com/94079321/149376395-72a3ed7d-1843-4447-9688-4cbb1cff5e3f.png)
 
+VTH= 5V
+I=16.7 mA
+RTH= 299 Ohms
+
 5. Conclusiones
 
 Mediante el presente laboratorio pudimos determinar que gracias a este teorema podemos reemplazar la estructura de nuestro circuito eléctrico con un circuito mucho más simple así, facilitando nuestros cálculos y optimizando nuestra resolución.
