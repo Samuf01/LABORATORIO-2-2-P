@@ -49,6 +49,7 @@ La resistencia de Thévenin (RTH) es la resistencia equivalente vista de la term
 
 -Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
+![image](https://user-images.githubusercontent.com/94079321/149376660-7f6e22d5-1943-474a-bcae-e98bd939531c.png)
 
 ![image](https://user-images.githubusercontent.com/94079321/149375400-22417867-f0d5-4ad8-b3b4-c9c55dbebe0a.png)
 
